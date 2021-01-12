@@ -36,3 +36,21 @@ SMB-based lateral movement is a frequently used technique by adversary groups, a
 **[Detecting Windows Endpoint Compromise with SACLs](https://medium.com/@cryps1s/detecting-windows-endpoint-compromise-with-sacls-cd748e10950)** - Dane Stuckey, Palantir
 
 A case study in using System Access Control Lists (SACLs) as part of Windows advanced auditing to detect common indicators of successful code execution, lateral movement, or other compromises.
+
+## Technical Background
+
+**[The Illustrated TLS Connection](https://tls.ulfheim.net/) - Michael Driscoll
+
+A detailed breakdown of a TLS Connection, at every stage, with annotated examples showing exactly how it looks "on-the-wire". Fantastic for anyone looking to write a parser or fully understand what is sent for every TLS connection, and at what stage.
+
+
+**[Portable Executable File Format](https://blog.kowalczyk.info/articles/pefileformat.html)** - Krzysztof Kowalczyk
+
+A useful reference for the PE Format, the most common executable format on Microsoft Windows, and how that information is stored at the file and structural level. Incredibly thorough, with datatypes and structures to build off if you're working with the format.
+
+**[DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials) - DigitalOcean
+
+An excellent collection of short, practical articles about systems administration and the complex stack of technologies you'll often run into, often with detailed practical manuals to work with them. Example: **[How To Use Journalctl to View and Manipulate Systemd Logs](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)**.
+
+
+
