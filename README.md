@@ -39,7 +39,7 @@ A case study in using System Access Control Lists (SACLs) as part of Windows adv
 
 ## Technical Background
 
-**[The Illustrated TLS Connection](https://tls.ulfheim.net/) - Michael Driscoll
+**[The Illustrated TLS Connection](https://tls.ulfheim.net/)** - Michael Driscoll
 
 A detailed breakdown of a TLS Connection, at every stage, with annotated examples showing exactly how it looks "on-the-wire". Fantastic for anyone looking to write a parser or fully understand what is sent for every TLS connection, and at what stage.
 
@@ -48,7 +48,7 @@ A detailed breakdown of a TLS Connection, at every stage, with annotated example
 
 A useful reference for the PE Format, the most common executable format on Microsoft Windows, and how that information is stored at the file and structural level. Incredibly thorough, with datatypes and structures to build off if you're working with the format.
 
-**[DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials) - DigitalOcean
+**[DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)** - DigitalOcean
 
 An excellent collection of short, practical articles about systems administration and the complex stack of technologies you'll often run into, often with detailed practical manuals to work with them. Example: **[How To Use Journalctl to View and Manipulate Systemd Logs](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)**.
 
