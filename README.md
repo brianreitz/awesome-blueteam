@@ -52,5 +52,8 @@ A useful reference for the PE Format, the most common executable format on Micro
 
 An excellent collection of short, practical articles about systems administration and the complex stack of technologies you'll often run into, often with detailed practical manuals to work with them. Example: **[How To Use Journalctl to View and Manipulate Systemd Logs](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)**.
 
+## Statistics
 
+**[Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)** - Haki Benita
 
+An excellent introduction to using SQL to identify patterns and anomalies in data, using a simple setup and queries that can be adapted to the query language or tool of your choice. A great way to define how you can use statistics to define outliers and practically implement the queries to identify them.
