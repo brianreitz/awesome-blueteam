@@ -52,6 +52,10 @@ A useful reference for the PE Format, the most common executable format on Micro
 
 An excellent collection of short, practical articles about systems administration and the complex stack of technologies you'll often run into, often with detailed practical manuals to work with them. Example: **[How To Use Journalctl to View and Manipulate Systemd Logs](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)**.
 
+**[Tools Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)** - JPCERT/CC
+
+A collection of digital artifacts created when running a particular tool or technique. Immensely useful when considering ideas for detections that rely on interesting behaviors or files created, or to find potential artifacts to prove a technique was used when threat hunting in an environment with sparse logging coverage.
+
 ## Statistics
 
 **[Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)** - Haki Benita
