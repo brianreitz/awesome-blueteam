@@ -61,3 +61,10 @@ A collection of digital artifacts created when running a particular tool or tech
 **[Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)** - Haki Benita
 
 An excellent introduction to using SQL to identify patterns and anomalies in data, using a simple setup and queries that can be adapted to the query language or tool of your choice. A great way to define how you can use statistics to define outliers and practically implement the queries to identify them.
+
+## Tools
+
+**[CyberChef](https://gchq.github.io/CyberChef/)** - GCHQ
+
+The self-described "Cyber Swiss Army Knife", CyberChef is an excellent web tool to chain together different procedures for tasks to decode, translate, or otherwise manipulate data without whipping up a standalone script. Very useful for analyzing snippets of data.
+
